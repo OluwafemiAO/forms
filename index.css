@@ -1,0 +1,124 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: rgb(43, 207, 139);
+    font-family: consolas, 'Times New Roman', Times, serif;
+}
+label[for=nm] {
+    color:#333(32, 107, 32);
+}
+
+#nm {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=eml] {
+    color:#333(32, 107, 32);
+}
+#eml{
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=dob] {
+    color:#333(32, 107, 32);
+}
+#dob {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=acc] {
+    color:#333(32, 107, 32);
+}
+#acc {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=gen] {
+    color:#333(32, 107, 32);
+}
+#gen {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=Ms] {
+    color:#333(32, 107, 32);
+}
+#Ms {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=na] {
+    color:#3333(32, 107, 32);
+}
+#na {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=So] {
+    color:#333(32, 107, 32);
+}
+#So {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=Lg] {
+    color:#333(32, 107, 32);
+}
+#Lg {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=Ni] {
+    color:#333(32, 107, 32);
+}
+#Ni {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=no] {
+    color:#333(32, 107, 32);
+}
+#no {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+label[for=ad] {
+    color:#333(32, 107, 32);
+}
+#ad {
+    height: 18px;
+    width:150px;
+    margin: 5px;
+    border: solid 1px rgb(43, 207, 139);
+}
+button {
+    background-color:rgb(43, 207, 139);
+    text-align: center;
+    margin: 4px 2px;
+    padding: 2px 10px;
+    border-radius: 4px;
+    color: #333;
+}
